@@ -23,3 +23,27 @@
 # inteira do primeiro pelo segundo, assim como o resto da divisão. Utilize apenas os operadores de soma e subtração para calcular 
 # o resultado. Lembre-se de que podemos entender o quociente da divisão de dois números como a quantidade de vezes que podemos
 # retirar o divisor do dividendo. Logo, 20 +4 =5, uma vez que podemos subtrair 4 cinco vezes de 20.
+
+# Modifique o programa anterior para que aceite respostas com letras maiusculas e minusculas em todas as questões
+
+# Escreva um programa que pergunte o depósito inicial e a taxa de juros de uma poupança. Exiba os valores mês a mês para os 24
+# primeiros meses. Escreva o total ganho com juros no período.
+
+# Altere o programa anterior de forma a perguntar também o valor depositado mensalmente. Esse valor será depositado no início de
+# cada mês, e você deve considerá-lo para o cálculo de juros do mês seguinte.
+
+# Escreva um programa que pergunte o valor inicial de uma dívida e o juro mensal. Pergunte também o valor mensal que será pago Imprima
+# o número de meses para que a dívida seja paga, o total pago e o total de juros pago.
+
+# Escreva um programa que leia numeros inteiros do teclado. O programa deve ler os numeros até que o usuário digite 0 (zero). No final da execução
+# exiba a quantidade de números digitados, assim como a soma e a média aritmética.
+
+# Escreva um programa para controlar uma pequena maquina registradora. Você deve solicitar ao usuário que digite o código do produto e a quantidade
+# comprada. Utilize a tabela de códigos a seguir para obter o preço de cada produto:
+
+#Codigo Preço
+# 1     0,50
+# 2     1,00
+# 3     4,00
+# 4     7,00
+# 5     8,00
