@@ -7,10 +7,3 @@ while count <= numero:
     if count % 2 == 1:
         print(count)
     count += 1
-
-#count = 10
-#while count >= 0:
-#    print(count)
-#    count -= 1
-#    if count < 0:
-#        print("FOGO!") 
