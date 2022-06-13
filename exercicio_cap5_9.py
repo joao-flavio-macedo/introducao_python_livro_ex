@@ -7,7 +7,9 @@ segundo_numero = int(input("Informe o segundo número:"))
 iterador = primeiro_numero
 str = []
 print(f"O resultado da divisão de {primeiro_numero} por {segundo_numero} é =", primeiro_numero//segundo_numero)
+print(f"O resto da divisão de {primeiro_numero} por {segundo_numero} é =", primeiro_numero%segundo_numero)
 while segundo_numero <= iterador:
     iterador -= segundo_numero
     str += [segundo_numero]
-print(f"A divisão é a subtração sucessiva de {segundo_numero} do total de {primeiro_numero}: {str}")
+    print(f"({iterador})", end=', ')
+print(f"\nA divisão é a subtração sucessiva de {segundo_numero} do total de {primeiro_numero}: {str} mais o resto da operação({primeiro_numero%segundo_numero})")
