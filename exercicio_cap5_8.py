@@ -10,4 +10,5 @@ numeros = []
 for count in range(primeiro_numero):
     numeros += [segundo_numero]
 
+print(f"O resultado da multiplicação de {primeiro_numero} por {segundo_numero} é =", primeiro_numero*segundo_numero)
 print(f"A multiplicação é a soma sucessiva de: {numeros}")
