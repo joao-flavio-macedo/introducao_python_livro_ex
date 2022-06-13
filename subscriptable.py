@@ -21,3 +21,5 @@ if __name__ == '__main__':
     digsum[10:20:3]
     fibonacci[123]
     fibonacci[10:20:3]
+
+    TESTESTESTESTE
