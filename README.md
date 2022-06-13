@@ -1,3 +1,5 @@
+![Screenshot](capa-ampliada-9788575227183)
+
 Introdução à Programação com Python - 3ª Edição - Algoritmos e lógica de programação para iniciantes
 
 Autor: Nilo Ney Coutinho Menezes
@@ -9,3 +11,4 @@ Ano: 2019
 Páginas: 328
 
 link: https://www.novatec.com.br/livros/introducao-python-3ed/
+
